@@ -31,6 +31,9 @@ Tema: Análisis de Mallas
 
 # 2. MARCO TEORICO
 
+![Untitled (2)](https://user-images.githubusercontent.com/116761073/202583319-ff19fdaa-592f-433f-b11a-98049fb9a851.jpg)
+
+![Untitled (3)](https://user-images.githubusercontent.com/116761073/202583420-0b2b6423-257f-4fda-a629-1538fa698b44.jpg)
 
 
 # 3.  PROCEDIMIENTO
