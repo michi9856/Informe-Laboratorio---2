@@ -46,7 +46,7 @@ Tema: Análisis de Mallas
 
 ![image](https://user-images.githubusercontent.com/116813974/202570666-e788ab2f-8bbe-4e90-a20c-e000b9b852c3.png)
 
-![image](https://user-images.githubusercontent.com/116813974/202570723-c307309f-4f12-48a9-bc8a-b20874fc38ce.png)
+![image](https://user-images.githubusercontent.com/116813974/202589682-2ca16954-b890-46dd-bf65-70dc71c00c0f.png)
 
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
 
