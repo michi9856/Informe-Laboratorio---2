@@ -38,8 +38,6 @@ Tema: Análisis de Mallas
 
 # 3.  PROCEDIMIENTO
 
-# 3.  PROCEDIMIENTO
-
 2.5.1. Implemente el circuito que se presenta en la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/116813974/202570593-12d9a8bd-a7d4-4791-8a54-f190e246e573.png)
