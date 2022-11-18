@@ -83,6 +83,7 @@ malla3
 
 # 5. VIDEO
 
+https://www.youtube.com/watch?v=nRxAEE6kAuo
 
 # 6. BIBLIOGRAFIA
 • Boylestad,	Robert	L.	(2013)	Análisis	introductorio	de	circuitos. 9º	Edición.	México:	PrenQce	Hall.	
